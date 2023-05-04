@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aitorvv96
+- 👋 Hi, I’m @aitorvv
 - 👀 I’m interested in forest modelling, programming and artificial intelligence.
 - 🌱 I’m currently learning about artificial intelligence.
 - 📫 You can contact me on aitor.vazquez.veloso@uva.es
