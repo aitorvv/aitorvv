@@ -11,6 +11,6 @@ More about me:
 [iuFOR](http://sostenible.palencia.uva.es/users/aitorvv)
 
 <!---
-aitorvv96/aitorvv96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+aitorvv/aitorvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
