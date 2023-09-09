@@ -7,7 +7,7 @@
 More about me:
 [ORCID](https://orcid.org/0000-0003-0227-506X) \\
 [Researchgate](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso) \\
-[Google Scholar](https://scholar.google.com/citations?user=9ALKiX0AAAAJ&hl=es&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?user=9ALKiX0AAAAJ&hl=es&oi=ao) \\
 [LinkedIn](https://www.linkedin.com/in/aitorvazquezveloso/) \\
 [Twitter](https://twitter.com/aitorvv) \\
 [iuFOR](http://sostenible.palencia.uva.es/users/aitorvv)
