@@ -5,6 +5,9 @@
 - 🌳 I'm a real fan of [SIMANFOR](https://www.simanfor.es/), a forest growth simulator, and I love to implement new models and teach [how it works](https://github.com/simanfor)
 - 📫 You can contact me at aitor.vazquez.veloso@uva.es
 
+[![aitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aitorvv&show_icons=true&theme=transparent)](https://github.com/aitorvv) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitorvv&show_icons=true&theme=transparent&layout=compact)](https://github.com/aitorvv)
+
 More about me:
 [ORCID](https://orcid.org/0000-0003-0227-506X) \\
 [Researchgate](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso) \\
