@@ -2,20 +2,20 @@
 
 👀 I like to learn new and diverse things all the time.
 
-:floppy_disk: I really enjoy playing with data and coding.
+:floppy_disk: I enjoy playing with data and coding.
 
-📚 I’m actually PhD student, that's the title of my topic: *Analysis of forest dynamics in a context of global change using Artificial Intelligence*.
+📚 I’m a PhD student, and that's my topic title: *Analysis of forest dynamics in a context of global change using Artificial Intelligence*.
 
 🌳 I'm a real fan of [SIMANFOR](https://www.simanfor.es/), a forest growth simulator, and I love to implement new models and teach [how it works](https://github.com/simanfor)
 
 :speaking_head: I´m also lecturing at [Forestry](https://www.uva.es/export/sites/uva/2.estudios/2.03.grados/2.02.01.oferta/estudio/e73e882d-72fd-11ec-ae63-00505682371a/) degree, [DATAFOREST](https://www.uva.es/export/sites/uva/2.estudios/2.04.master/2.03.01.oferta/estudio/Master-en-Gestion-Forestal-basada-en-Ciencia-de-Datos-00002/) MSc degree, and at [GEODATA](https://github.com/GEODATA-UVa) microcredential at University of Valladolid.
 
-:computer: Here some of my GitHub stats:
+:computer: Here are some of my GitHub stats:
 
-[![aitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aitorvv&show_icons=true&theme=transparent)](https://github.com/aitorvv) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitorvv&show_icons=true&theme=transparent&layout=compact)](https://github.com/aitorvv)
+[![aitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aitorvv&rank_icon=github&theme=transparent)](https://github.com/aitorvv) 
 
 <!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitorvv&show_icons=true&theme=transparent&layout=compact)](https://github.com/aitorvv)
 [![My Skills](https://skillicons.dev/icons?i=r,md,github,py,bash,latex)](https://skillicons.dev)
 --->
 
