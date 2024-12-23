@@ -14,7 +14,8 @@
 
 👀 I like to learn new things all the time.
 
-:floppy_disk: I really enjoy playing with data and coding.
+:floppy_disk: I enjoy playing with data and coding.
+
 
 📚 I am currently a [PhD student at the University of Valladolid](https://portaldelaciencia.uva.es/investigadores/178830/detalle) focusing on quantitative forestry, with a special interest in forest modeling, silviculture, and simulations. 
 
@@ -22,10 +23,9 @@
 
 ---
 
-### :computer: Here some of my GitHub stats:
+### :computer: GitHub stats
 
-[![aitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aitorvv&show_icons=true&theme=transparent)](https://github.com/aitorvv) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitorvv&show_icons=true&theme=transparent&layout=compact)](https://github.com/aitorvv)
+[![aitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aitorvv&rank_icon=github&theme=transparent)](https://github.com/aitorvv) 
 
 ---
 
@@ -37,6 +37,7 @@
 - :star: [My own repositories](https://github.com/aitorvv?tab=repositories) - Data and code from various projects including research work
 
 <!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitorvv&show_icons=true&theme=transparent&layout=compact)](https://github.com/aitorvv)
 [![My Skills](https://skillicons.dev/icons?i=r,md,github,py,bash,latex)](https://skillicons.dev)
 --->
 
