@@ -1,35 +1,82 @@
+<!---
 ![header](./header/github-header-image.png)
+--->
 
-👀 I like to learn new and diverse things all the time.
+# 🌲 Hey! I am **Aitor** 🌳
+
+### 🎓 PhD Student | 🌱 Forestry Engineer | 💻 Data and programming lover
+
+<!---
+![Profile Views](https://komarev.com/ghpvc/?username=aitorvv&color=blue)
+--->
+
+---
+
+👀 I like to learn new things all the time.
 
 :floppy_disk: I really enjoy playing with data and coding.
 
-📚 I’m actually PhD student, that's the title of my topic: *Analysis of forest dynamics in a context of global change using Artificial Intelligence*.
+📚 I am currently a [PhD student at the University of Valladolid](https://portaldelaciencia.uva.es/investigadores/178830/detalle) focusing on quantitative forestry, with a special interest in forest modeling, silviculture, and simulations. 
 
-🌳 I'm a real fan of [SIMANFOR](https://www.simanfor.es/), a forest growth simulator, and I love to implement new models and teach [how it works](https://github.com/simanfor)
+🌱 My goal is to support the forestry sector by generating new knowledge and developing innovative tools to support decision-making in silviculture.
 
-:speaking_head: I´m also lecturing at [Forestry](https://www.uva.es/export/sites/uva/2.estudios/2.03.grados/2.02.01.oferta/estudio/e73e882d-72fd-11ec-ae63-00505682371a/) degree, [DATAFOREST](https://www.uva.es/export/sites/uva/2.estudios/2.04.master/2.03.01.oferta/estudio/Master-en-Gestion-Forestal-basada-en-Ciencia-de-Datos-00002/) MSc degree, and at [GEODATA](https://github.com/GEODATA-UVa) microcredential at University of Valladolid.
+---
 
-:computer: Here some of my GitHub stats:
+### :computer: Here some of my GitHub stats:
 
 [![aitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=aitorvv&show_icons=true&theme=transparent)](https://github.com/aitorvv) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitorvv&show_icons=true&theme=transparent&layout=compact)](https://github.com/aitorvv)
+
+---
+
+### 🏆 Featured Projects
+- [SIMANFOR](https://github.com/simanfor) - Decision Support System for the Simulation of Sustainable Forest Management Alternatives available at his [website](https://www.simanfor.es/)
+- [SMART Ecosystems Reseach Group](https://github.com/iuFOR-QuantitativeForestry) - Repositories from our research group
+- [SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) - Courses and activities launched by the SMART Global Ecosystems Chair
+- [GEODATA](https://github.com/GEODATA-UVa) - Code of different subjects with GEODATA students
+- :star: [My own repositories](https://github.com/aitorvv?tab=repositories) - Data and code from various projects including research work
 
 <!---
 [![My Skills](https://skillicons.dev/icons?i=r,md,github,py,bash,latex)](https://skillicons.dev)
 --->
 
+---
 
-📫 You can contact me at aitor.vazquez.veloso@uva.es
+### 📫 Contact Me
 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aitor.vazquez.veloso@uva.es)
+
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0227--506X-green?logo=orcid)](https://orcid.org/0000-0003-0227-506X)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=XNMn1cUAAAAJ&hl=es&oi=ao)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/aitorvazquezveloso/)
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://twitter.com/aitorvv)
+
+
+<!---
 :sparkles: More about me:
-[![ORCID](./logos/orcid.png)](https://orcid.org/0000-0003-0227-506X) 
-[![Researchgate](./logos/researchgate.png)](https://www.researchgate.net/profile/Aitor_Vazquez_Veloso) 
-[![Google Scholar](./logos/google_scholar.png)](https://scholar.google.com/citations?user=9ALKiX0AAAAJ&hl=es&oi=ao) 
-[![iuFOR](./logos/iufor.png)](http://sostenible.palencia.uva.es/users/aitorvv)
-[![LinkedIn](./logos/linkedin.png)](https://www.linkedin.com/in/aitorvazquezveloso/) 
-[![Twitter](./logos/twitter.png)](https://twitter.com/aitorvv) 
-[![Acaudio](./logos/acaudio.png)](https://app.acaudio.com/profile/2325) 
+
+<a href="https://orcid.org/0000-0003-0227-506X" target="_blank">
+  <img src="./logos/orcid.png" alt="orcid" width="40" />
+</a>
+<a href="https://www.researchgate.net/profile/Aitor_Vazquez_Veloso" target="_blank">
+  <img src="./logos/researchgate.png" alt="rg" width="40" />
+</a>
+<a href="https://scholar.google.com/citations?user=XNMn1cUAAAAJ&hl=es&oi=ao" target="_blank">
+  <img src="./logos/google_scholar.png" alt="scholar" width="40" />
+</a>
+<a href="https://portaldelaciencia.uva.es/investigadores/178830/detalle" target="_blank">
+  <img src="./logos/uva.jpg" alt="uva" width="40" />
+</a>
+<a href="[https://orcid.org/0000-000 3-0227-506X](https://www.linkedin.com/in/aitorvazquezveloso/)" target="_blank">
+  <img src="./logos/linkedin.png" alt="linkedin" width="40" />
+</a>
+<a href="https://twitter.com/aitorvv" target="_blank">
+  <img src="./logos/x.png" alt="x" width="60" />
+</a>
+--->
 
 
 
