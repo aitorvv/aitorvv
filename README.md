@@ -1,25 +1,26 @@
 <!---
 ![header](./header/github-header-image.png)
 --->
-
+<div align="center">
+  
 # 🌲 Hey! I am **Aitor** 🌳
 
 ### 🎓 PhD Student | 🌱 Forestry Engineer | 💻 Data and programming lover
 
+</div>
 <!---
 ![Profile Views](https://komarev.com/ghpvc/?username=aitorvv&color=blue)
 --->
 
 ---
 
-👀 I like to learn new things all the time.
+#### 👀 I like to learn new things all the time.
 
-:floppy_disk: I enjoy playing with data and coding.
+#### :floppy_disk: I enjoy playing with data and coding.
 
+#### 📚 I am currently a [PhD student at the University of Valladolid](https://portaldelaciencia.uva.es/investigadores/178830/detalle) focusing on quantitative forestry, with a special interest in forest modeling, silviculture, and simulations. 
 
-📚 I am currently a [PhD student at the University of Valladolid](https://portaldelaciencia.uva.es/investigadores/178830/detalle) focusing on quantitative forestry, with a special interest in forest modeling, silviculture, and simulations. 
-
-🌱 My goal is to support the forestry sector by generating new knowledge and developing innovative tools to support decision-making in silviculture.
+#### 🌱 My goal is to support the forestry sector by generating new knowledge and developing innovative tools to support decision-making in silviculture.
 
 ---
 
