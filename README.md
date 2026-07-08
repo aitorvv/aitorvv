@@ -1,6 +1,6 @@
 <!--- ![header](./header/github-header-image.png) ---> <div align="center">
 # 🌲 Aitor Vázquez Veloso 🌳
-### 🎓 PhD in Forest Engineering | 🔬 Postdoctoral Researcher at iuFOR | 💻 R & Python Developer
+### 🎓 PhD in Forest Engineering | 🔬 Postdoctoral Researcher at iuFOR | 💻 R & Python
 </div>
 <!--- ![Profile Views](https://komarev.com/ghpvc/?username=aitorvv&color=blue) --->
 
@@ -15,6 +15,7 @@ My main focus is translating complex mathematical growth and yield equations int
 ### 🏆 Featured Projects
 - [SIMANFOR](https://github.com/simanfor) - Decision Support System (DSS) for simulating sustainable forest management, available on its [website](https://www.simanfor.es/).
 - [silviculture](https://github.com/Cidree/silviculture) - An R package designed to process and analyze forest inventory data.
+- [WorldClimExtractR](https://github.com/aitorvv/WorldClimExtractR) - An R tool designed to extract data from WorldClim for a set of coordinates and automatically generate climate diagrams.
 - [SMART Ecosystems Research Group](https://github.com/iuFOR-QuantitativeForestry) - Repositories from our research group at iuFOR.
 - [SMART Global Ecosystems](https://github.com/SMART-Global-Ecosystems) - Code and resources for courses launched by the SMART Global Ecosystems Chair.
 - :star: [My own repositories](https://github.com/aitorvv?tab=repositories) - Data, packages, and code from various personal and research projects.
